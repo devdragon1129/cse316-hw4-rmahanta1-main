@@ -1,2 +1,3 @@
-# cse316-hw4-rmahanta1-main
-cse316-hw4-rmahanta1-main created by React
+Read homework specifications [here](https://docs.google.com/document/d/127hrYsI4YgLtNOOGTA539gJLnU1x96-ew491Gi9r7gc/edit?usp=sharing).
+
+After you push to this repository, submit your GitHub username in Blackboard.
